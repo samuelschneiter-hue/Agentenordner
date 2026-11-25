@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biodrive:solar_panel",
+    "biodrive:fuel_generator",
+    "biodrive:simple_battery",
+    "biodrive:energy_cable"
+  ]
+}

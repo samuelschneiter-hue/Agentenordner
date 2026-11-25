@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "charge_level=0": {
+      "model": "biodrive:block/simple_battery_0"
+    },
+    "charge_level=1": {
+      "model": "biodrive:block/simple_battery_1"
+    },
+    "charge_level=2": {
+      "model": "biodrive:block/simple_battery_2"
+    },
+    "charge_level=3": {
+      "model": "biodrive:block/simple_battery_3"
+    },
+    "charge_level=4": {
+      "model": "biodrive:block/simple_battery_4"
+    }
+  }
+}

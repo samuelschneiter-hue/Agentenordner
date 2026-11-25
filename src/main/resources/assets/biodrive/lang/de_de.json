@@ -1,0 +1,14 @@
+{
+  "itemGroup.biodrive.general": "BioDrive",
+  "block.biodrive.solar_panel": "Solarmodul",
+  "block.biodrive.fuel_generator": "Brennstoffgenerator",
+  "block.biodrive.simple_battery": "Einfache Batterie",
+  "block.biodrive.energy_cable": "Energiekabel",
+  "message.biodrive.solar_panel.active": "Solarmodul: Erzeugt %s E/t",
+  "message.biodrive.solar_panel.inactive": "Solarmodul: Inaktiv (benötigt freien Tageshimmel)",
+  "message.biodrive.fuel_generator.inserted": "Brennstoff in den Generator eingefüllt",
+  "message.biodrive.fuel_generator.standby": "Brennstoffgenerator: Auto-Standby (Redstone aktiv)",
+  "message.biodrive.fuel_generator.running": "Brennstoffgenerator: Erzeugt %s E/t (%s Brennstoff geladen)",
+  "message.biodrive.fuel_generator.idle": "Brennstoffgenerator: Leerlauf (%s Brennstoff geladen)",
+  "message.biodrive.simple_battery.status": "Einfache Batterie: %s / %s E (%s%%)"
+}

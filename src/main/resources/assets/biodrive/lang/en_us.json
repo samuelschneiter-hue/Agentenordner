@@ -1,0 +1,14 @@
+{
+  "itemGroup.biodrive.general": "BioDrive",
+  "block.biodrive.solar_panel": "Solar Panel",
+  "block.biodrive.fuel_generator": "Fuel Generator",
+  "block.biodrive.simple_battery": "Simple Battery",
+  "block.biodrive.energy_cable": "Energy Cable",
+  "message.biodrive.solar_panel.active": "Solar Panel: Generating %s E/t",
+  "message.biodrive.solar_panel.inactive": "Solar Panel: Inactive (needs clear daytime sky)",
+  "message.biodrive.fuel_generator.inserted": "Fuel inserted into Fuel Generator",
+  "message.biodrive.fuel_generator.standby": "Fuel Generator: Auto-Standby (Redstone active)",
+  "message.biodrive.fuel_generator.running": "Fuel Generator: Generating %s E/t (%s fuel queued)",
+  "message.biodrive.fuel_generator.idle": "Fuel Generator: Idle (%s fuel queued)",
+  "message.biodrive.simple_battery.status": "Simple Battery: %s / %s E (%s%%)"
+}

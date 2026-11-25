@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "biodrive:block/energy_cable",
+    "cable": "biodrive:block/energy_cable"
+  },
+  "elements": [
+    {
+      "from": [6, 6, 1],
+      "to": [10, 10, 15],
+      "faces": {
+        "down": { "uv": [6, 1, 10, 15], "texture": "#cable" },
+        "up": { "uv": [6, 1, 10, 15], "texture": "#cable" },
+        "north": { "uv": [6, 6, 10, 10], "texture": "#cable" },
+        "south": { "uv": [6, 6, 10, 10], "texture": "#cable" },
+        "west": { "uv": [1, 6, 15, 10], "texture": "#cable" },
+        "east": { "uv": [1, 6, 15, 10], "texture": "#cable" }
+      }
+    }
+  ]
+}

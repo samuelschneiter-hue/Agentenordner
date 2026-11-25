@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "biodrive:block/solar_panel"
+    }
+  }
+}
